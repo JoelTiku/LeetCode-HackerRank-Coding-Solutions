@@ -163,17 +163,17 @@ C:\ git branch -d <new-branch-name>
 
 ### Array using Java
 
-- [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/BestTimetoBuyandSellStock.java)
-- [ConcatenationOfArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ConcatenationOfArray.java)
-- [ContainerWithMostWater.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ContainerWithMostWater.java)
-- [containsDuplicate.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/containsDuplicate.java)
-- [FindMinimuminRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/FindMinimuminRotatedSortedArray.java)
-- [MaximumProductSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/MaximumProductSubarray.java)
-- [MaximumSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/MaximumSubarray.java)
-- [ProductofArrayExceptSelf.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ProductofArrayExceptSelf.java)
-- [SearchingRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/SearchingRotatedSortedArray.java)
-- [ThreeSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/ThreeSum.java)
-- [TwoSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array/TwoSum.java)
+- [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/BestTimetoBuyandSellStock.java)
+- [ConcatenationOfArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ConcatenationOfArray.java)
+- [ContainerWithMostWater.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ContainerWithMostWater.java)
+- [containsDuplicate.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/containsDuplicate.java)
+- [FindMinimuminRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/FindMinimuminRotatedSortedArray.java)
+- [MaximumProductSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/MaximumProductSubarray.java)
+- [MaximumSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/MaximumSubarray.java)
+- [ProductofArrayExceptSelf.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ProductofArrayExceptSelf.java)
+- [SearchingRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/SearchingRotatedSortedArray.java)
+- [ThreeSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ThreeSum.java)
+- [TwoSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/TwoSum.java)
 
 
 
