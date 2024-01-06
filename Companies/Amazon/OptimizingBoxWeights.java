@@ -56,7 +56,7 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.Map;
 
-public class OptimizingBoxWeights1 {
+public class OptimizingBoxWeights {
     
     public static List<Integer> minimalHeaviestSetA(List<Integer> arr) {
         // Example 1: Given input list arr = [1, 1, 1, 4, 1, 4, 4, 7, 8]
