@@ -25,7 +25,7 @@ Input: nums = [1], target = 0
 Output: -1
 */
 
-public class SearchinRotatedSortedArray {
+public class SearchingRotatedSortedArray {
 
     /*
      * There are three cases where the target value will lie.
@@ -135,7 +135,7 @@ public class SearchinRotatedSortedArray {
         int target2 = 3;
         System.out.println("nums = [4,5,6,7,0,1,2] and target = 3 then output = " + search1(arr2, target2));
 
-        SearchinRotatedSortedArray find = new SearchinRotatedSortedArray();
+        SearchingRotatedSortedArray find = new SearchingRotatedSortedArray();
         int[] arr3 = { 4, 5, 0, 1, 2, 3 };
         int target3 = 5;
         System.out.println("nums = [4,5,0,1,2,3] and target = 5 then output = " + find.search2(arr3, target3));
