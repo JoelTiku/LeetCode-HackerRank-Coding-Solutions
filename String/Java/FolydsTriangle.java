@@ -1,8 +1,7 @@
 
 class FolydsTriangle {
     // Floyd's triangle is a right-angled triangular array of natural numbers. 
-    
-    
+       
     public static void folydstriangleNum() {
         
         int counter = 0;
@@ -34,3 +33,15 @@ class FolydsTriangle {
         
     }
 }
+
+/*
+1
+23
+456
+78910
+
+*
+**
+***
+****
+*/
