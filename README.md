@@ -161,7 +161,7 @@ C:\ git branch -d <new-branch-name>
 
 ```
 
-### Array using Java
+### Array and Hashing
 
 - [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/BestTimetoBuyandSellStock.java)
 - [ConcatenationOfArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ConcatenationOfArray.java)
@@ -178,6 +178,11 @@ C:\ git branch -d <new-branch-name>
 
 
 
+
+### String
+
+- [ValidPalindrome.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/ValidPalindrome.java)
+- [FolydsTriangle.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/FolydsTriangle.java)
 
 
 
