@@ -163,17 +163,17 @@ C:\ git branch -d <new-branch-name>
 
 ### Array and Hashing
 
-- [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/BestTimetoBuyandSellStock.java)
-- [ConcatenationOfArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ConcatenationOfArray.java)
-- [ContainerWithMostWater.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ContainerWithMostWater.java)
-- [containsDuplicate.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/containsDuplicate.java)
-- [FindMinimuminRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/FindMinimuminRotatedSortedArray.java)
-- [MaximumProductSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/MaximumProductSubarray.java)
-- [MaximumSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/MaximumSubarray.java)
-- [ProductofArrayExceptSelf.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ProductofArrayExceptSelf.java)
-- [SearchingRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/SearchingRotatedSortedArray.java)
-- [ThreeSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/ThreeSum.java)
-- [TwoSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/TwoSum.java)
+- [BestTimetoBuyandSellStock.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/BestTimetoBuyandSellStock.java)
+- [ConcatenationOfArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/ConcatenationOfArray.java)
+- [ContainerWithMostWater.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/ContainerWithMostWater.java)
+- [containsDuplicate.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/containsDuplicate.java)
+- [FindMinimuminRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/FindMinimuminRotatedSortedArray.java)
+- [MaximumProductSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/MaximumProductSubarray.java)
+- [MaximumSubarray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/MaximumSubarray.java)
+- [ProductofArrayExceptSelf.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/ProductofArrayExceptSelf.java)
+- [SearchingRotatedSortedArray.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/SearchingRotatedSortedArray.java)
+- [ThreeSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/ThreeSum.java)
+- [TwoSum.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/Array%20%26%20Hashing/Java/TwoSum.java)
 
 
 
@@ -181,8 +181,8 @@ C:\ git branch -d <new-branch-name>
 
 ### String
 
-- [ValidPalindrome.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/ValidPalindrome.java)
-- [FolydsTriangle.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/FolydsTriangle.java)
+- [ValidPalindrome.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/Java/ValidPalindrome.java)
+- [FolydsTriangle.java](https://github.com/JoelTiku/LeetCode-HackerRank-Coding-Solutions/blob/main/String/Java/FolydsTriangle.java)
 
 
 
