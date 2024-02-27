@@ -49,7 +49,7 @@ class ValidPalindrome {
 
 
 
-    // Approach 2: Two Pointers
+    // Approach 3: Two Pointers
     // Time complexity : O(n)
     // Space complexity : O(1)
     public boolean isPalindrome3(String s) {
